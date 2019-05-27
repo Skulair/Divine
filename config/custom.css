@@ -126,14 +126,14 @@
 
   .roomlist a.ilink
   {
-    color: #627ADC;
-    border: 1px solid black;
+   color: #ed5040;
+   border: 1px solid black;
   }
 
   .roomlist a.ilink:hover
   {
-    color: #546FDB;
-    border: 1px solid black;
+   color: #ec5c4d;
+   border: 1px solid black;
   }
 
   .maintabbarbottom
